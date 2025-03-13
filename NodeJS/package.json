@@ -1,0 +1,18 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "main": "script1.js",
+  "scripts": {
+    "start": "node ./script3.js",
+    "chacha": "echo \"this is good\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avichal Goyal",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "accessibility": "^6.0.7",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2"
+  }
+}
